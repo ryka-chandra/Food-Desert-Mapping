@@ -1,9 +1,3 @@
-'''
-Ryka Chandra
-Intermediate Data Programming
-This program implements the functions assigned in HW5 Write-up
-'''
-
 import geopandas as gpd
 import pandas as pd
 import matplotlib.pyplot as plt
