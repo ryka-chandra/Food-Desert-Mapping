@@ -143,8 +143,8 @@ def main():
     and calls all of the functions
     """
     state_data = load_in_data(
-        'food_access/washington.json',
-        'food_access/food_access.csv'
+        'washington.json',
+        'food_access.csv'
     )
     print(percentage_food_data(state_data))
     plot_map(state_data)
